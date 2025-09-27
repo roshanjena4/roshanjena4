@@ -1,11 +1,9 @@
 <h1 align="center">Hi👋, I'm Roshan Jena</h1>
 
 
-<h2 align="center">💫 A passionate Full stack developer from India</h2>
-
+<p align="center"><b>💫 A passionate Full stack developer from India💫</b></p><br>
 <p>
 🔭 I’m currently working on ASP.NET and Next.js.<br>
-👯 Actively contributing to open-source projects and empowering the developer community.<br>
 🤝 Always open to collaboration on exciting coding challenges and innovative projects.<br>
 🌱 A lifelong learner, continuously leveling up my coding skills.<br>
 💬 Ask me about C#, ASP.NET, APIs, Blazor, React, Next.js, and DSA problem-solving — I’d love to share knowledge and learn together.<br>
